@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-	{"pool_address" : "pool.etn.spacepools.org:5555", "wallet_address" : "etnk4Uqd5Ri37AjUfmZM12525rcenrvM6cYbyrEk3FQsbvFTrLVjpnbcqU18UhXxoKLb5cAKX7MK5GJ1UWxBbi9w2B6TMp5EB4", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "pool.minexmr.com:7777", "wallet_address" : "47gHiNLnqhzZw3Wc6Y5cmnLjZpzNPUCCLehRtWctvDsQPK1UfmB9jwuBYvhjSASfRtGnftKTpo6A92YRtemuKSCfLm1Nf5s", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
